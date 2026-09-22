@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "channel": "stable",
+  "releaseId": "catalog-000007",
+  "catalogRevision": 7,
+  "commit": "63e76fcc4c22fb375cf40d1955fbf4803e5cd985",
+  "issuedAt": "2026-09-19T09:06:00Z",
+  "minimumClientVersionCode": 146,
+  "manifest": {
+    "url": "https://raw.githubusercontent.com/sashkinbro/EmuCoreX-News-Media-Hub/63e76fcc4c22fb375cf40d1955fbf4803e5cd985/catalog/v1/manifest.json",
+    "sha256": "3c0b91b759efa9b80111644293c794b8e9585d78c64d4f87e4776fb320268a41",
+    "bytes": 41818,
+    "contentType": "application/json"
+  }
+}
